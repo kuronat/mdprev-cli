@@ -1,5 +1,5 @@
 {
-  "name": "mdprev",
+  "name": "mdprev-cli",
   "bin": {
     "mdprev": "app.js"
   },
@@ -12,5 +12,5 @@
     "express": "^4.15.4",
     "opn": "^5.1.0"
   },
-  "version": "0.1.1"
+  "version": "0.1.0"
 }
