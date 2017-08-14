@@ -1,7 +1,15 @@
 {
+  "name": "mdprev",
+  "bin": {
+    "mdprev": "app.js"
+  },
   "scripts": {
     "bs-server": "browser-sync start --server 'public' --files 'public'",
     "wp-server": "webpack --watch",
     "dev": "npm run bs-server | npm run wp-server"
+  },
+  "version": "0.1.0",
+  "dependencies": {
+    "express": "^4.15.4"
   }
 }
