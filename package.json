@@ -8,9 +8,9 @@
     "wp-server": "webpack --watch",
     "dev": "npm run bs-server | npm run wp-server"
   },
-  "version": "0.1.0",
   "dependencies": {
     "express": "^4.15.4",
     "opn": "^5.1.0"
-  }
+  },
+  "version": "0.1.1"
 }
