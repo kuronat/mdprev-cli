@@ -19,9 +19,11 @@ mdprev your_editing_md_file.md
 There is many markdown editor, processor, but...
 
 * Most markdown processor does not respect LaTeX syntax like \ inside `$`.
-* Editor is important, like a partner for writer. Thus we often feel given editors are insufficient. 
+* Editor is important, like a partner for writer. Thus we often feel given editors are insufficient.
+* Too complex to learn.
 
 So we suggest this concept:
 
 * You can use your favorite editor.
 * GFM based rendering but it respects LaTeX syntax.
+* Extremely simple.
