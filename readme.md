@@ -24,6 +24,6 @@ There is many markdown editor, processor, but...
 
 So we suggest this concept:
 
-* You can use your favorite editor.
 * GFM based rendering but it respects LaTeX syntax.
+* You can use your favorite editor.
 * Extremely simple.
