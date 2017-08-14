@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "bs-server": "browser-sync start --server 'public' --files 'public'",
+    "wp-server": "webpack --watch",
+    "dev": "npm run bs-server | npm run wp-server"
+  }
+}
